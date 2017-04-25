@@ -1,0 +1,21 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+
+    <dimen name="nav_drawer_header_height">160dp</dimen>
+    <dimen name="nav_drawer_header_padding">16dp</dimen>
+    <dimen name="circular_imageview_size">56dp</dimen>
+    <dimen name="nav_drawer_header_top_margin">16dp</dimen>
+    <dimen name="nav_drawer_header_spacing">16dp</dimen>
+    <dimen name="list_item_height">72dp</dimen>
+    <dimen name="list_item_left_margin">16dp</dimen>
+    <dimen name="list_item_right_margin">16dp</dimen>
+    <dimen name="task_view_padding_top">25dp</dimen>
+    <dimen name="activity_content_margin">72dp</dimen>
+    <dimen name="activity_content_between">16dp</dimen>
+    <dimen name="toolbar_tall_height">128dp</dimen>
+    <dimen name="toolbar_content_inset">72dp</dimen>
+    <dimen name="toolbar_padding_bottom">16dp</dimen>
+</resources>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BluePrint</string>
+    <string name="inbox">Inbox</string>
+    <string name="completed">Completed</string>
+    <string name="user">User</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="delete">Delete</string>
+    <string name="edit_activity">EditActivity</string>
+    <string name="description">Description</string>
+    <string name="title">Title</string>
+    <string name="cancel">Cancel</string>
+</resources>
